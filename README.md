@@ -24,7 +24,7 @@
    python main.py  
    ```  
 Скачать:
-Последние версии доступны на странице релизов.
+Последние версии доступны на <a href = "https://github.com/Gavriilbolt/Local_FTP_Server/releases" >Странице релизов</a>..
 
 ---  
 
@@ -54,7 +54,7 @@ A simple Python application with a graphical interface for configuring and launc
    python main.py  
    ```  
 Download:
-The latest versions are available on the Releases page.
+The latest versions are available on the <a href = "https://github.com/Gavriilbolt/Local_FTP_Server/releases" >Releases page</a>.
 
 
 ICO from <a href="https://www.flaticon.com/free-icons/ftp" title="ftp icons">Ftp icons created by iconsmind - Flaticon</a>
