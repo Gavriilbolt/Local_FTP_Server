@@ -1,8 +1,4 @@
-Вот описание проекта на русском и английском языках:  
-
-**Описание на русском:**  
-
-# FTP Server GUI  
+# Local_FTP_Server
 Простое приложение на Python с графическим интерфейсом для настройки и запуска FTP-сервера в локальной сети.  
 
 ## Возможности:  
@@ -27,12 +23,12 @@
    ```bash  
    python main.py  
    ```  
+Скачать:
+Последние версии доступны на странице релизов.
 
 ---  
 
-**Project description in English:**  
-
-# FTP Server GUI  
+# Local_FTP_Server 
 A simple Python application with a graphical interface for configuring and launching an FTP server in a local network.  
 
 ## Features:  
@@ -57,5 +53,8 @@ A simple Python application with a graphical interface for configuring and launc
    ```bash  
    python main.py  
    ```  
+Download:
+The latest versions are available on the Releases page.
 
-Ты можешь использовать этот текст в файле `README.md` для оформления репозитория на GitHub.
+
+ICO from <a href="https://www.flaticon.com/free-icons/ftp" title="ftp icons">Ftp icons created by iconsmind - Flaticon</a>
